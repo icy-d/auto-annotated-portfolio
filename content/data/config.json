@@ -27,7 +27,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "Github",
                 "label": "Github",
                 "url": "https://twitter.com/netlify",
                 "icon": "github"
